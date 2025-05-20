@@ -19,5 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "K22411C_FirstDegree"
+rootProject.name = "K22411CSampleProject"
 include(":app")
+ 
